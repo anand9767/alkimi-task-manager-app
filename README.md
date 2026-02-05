@@ -12,6 +12,7 @@ Task data is persisted using **browser localStorage**.
 - TypeScript
 - React Hooks
 - Browser Local Storage
+- Netlify for Deployment
 
 ---
 
